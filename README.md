@@ -66,12 +66,4 @@ O objetivo da formação é proporcionar acesso à educação de qualidade para 
 
 Saiba mais sobre o programa [aqui](https://www.oracle.com/br/education/oracle-next-education/). 🌍
 
-## Contribuições 🤝
-
-Contribuições são bem-vindas! Se você tem sugestões de melhorias, encontrou algum bug ou deseja implementar novos recursos, fique à vontade para abrir uma *issue* ou enviar um *pull request*. 💡
-
-## Licença 📜
-
-Este projeto está licenciado sob a [MIT License](LICENSE). 🔓
-
 ---
