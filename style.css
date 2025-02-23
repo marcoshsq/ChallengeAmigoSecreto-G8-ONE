@@ -127,7 +127,7 @@ button {
     cursor: pointer;
 }
 
-/* Botão adicionar (mantém identidade diferenciada) */
+/* Botão adicionar */
 .button-add {
     background-color: var(--color-tertiary);
     color: var(--color-text);
@@ -138,7 +138,7 @@ button {
     background-color: #a1a1a1;
 }
 
-/* Botões de sorteio e reinício - identidade visual unificada */
+/* Botões de sorteio e reinício */
 .button-draw,
 .button-single-draw,
 .button-reset {
@@ -185,7 +185,7 @@ ul {
     text-align: center;
 }
 
-/* Botão de remover: sem fundo, borda e com cursor pointer */
+/* Botão de remover */
 .remove-btn {
     background: transparent;
     border: none;
@@ -193,15 +193,15 @@ ul {
     cursor: pointer;
   }
   
-  /* Ícone de remover: redimensionado e com fundo transparente */
+  /* Ícone de remover: */
   .icon-remove {
-    width: 20px;       /* Ajuste para o tamanho desejado */
-    height: auto;      /* Mantém a proporção */
+    width: 20px;
+    height: auto;
     background: transparent;
     vertical-align: middle;
   }
   
-  /* Se desejar que os itens da lista fiquem alinhados e com espaço entre o nome e o botão */
+  /* Espaço entre o nome e o botão do lixo */
   .name-list li {
     display: flex;
     align-items: center;
