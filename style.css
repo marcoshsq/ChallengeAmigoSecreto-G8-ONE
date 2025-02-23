@@ -185,3 +185,28 @@ ul {
     text-align: center;
 }
 
+/* Botão de remover: sem fundo, borda e com cursor pointer */
+.remove-btn {
+    background: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+  /* Ícone de remover: redimensionado e com fundo transparente */
+  .icon-remove {
+    width: 20px;       /* Ajuste para o tamanho desejado */
+    height: auto;      /* Mantém a proporção */
+    background: transparent;
+    vertical-align: middle;
+  }
+  
+  /* Se desejar que os itens da lista fiquem alinhados e com espaço entre o nome e o botão */
+  .name-list li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
