@@ -3,25 +3,26 @@
 
 # Amigo Secreto 🎁
 
-## Sobre o Projeto
+### Sobre o Projeto
+Este é um projeto de Amigo Secreto desenvolvido como parte da formação "Iniciante em Programação" 🖥️, oferecida pelo programa Oracle Next Education (ONE), em parceria com a Alura. A aplicação permite que você adicione participantes, faça sorteios e visualize os resultados de uma maneira simples e interativa, utilizando tecnologias como HTML, CSS e JavaScript.
 
-Este é um projeto de **Amigo Secreto** desenvolvido como parte da **formação "Iniciante em Programação"** 🖥️, oferecida pelo programa **Oracle Next Education** (ONE), em parceria com a **Alura**. A aplicação permite que você adicione participantes, faça sorteios e visualize os resultados de uma maneira simples e interativa, utilizando tecnologias como **HTML**, **CSS** e **JavaScript**.
+A ideia original do projeto foi inspirada em um desafio do programa, que visa testar habilidades de lógica de programação, manipulação de DOM e interatividade. Créditos ao desafio original que serviu de inspiração para esta implementação. 💡
 
-A ideia original do projeto foi inspirada em um **desafio do programa**, que visa testar habilidades de lógica de programação, manipulação de DOM e interatividade. **Créditos ao desafio original** que serviu de inspiração para esta implementação. 💡
+### Funcionalidades 🔧
+- **Adicionar Nomes**: Insira os nomes dos participantes, seja individualmente ou separados por vírgula. ✍️
+- **Visualizar Lista**: Veja os nomes adicionados sendo exibidos dinamicamente na página. 👀
+- **Sorteio Completo**: Gere automaticamente os pares de Amigo Secreto, garantindo que ninguém sorteie a si mesmo. Uma mensagem personalizada é exibida junto com os resultados. 🎉
+- **Sorteio Individual**: Sorteie um único amigo secreto e exiba uma mensagem exclusiva com o nome sorteado. 🤔
+- **Reiniciar Sorteio**: Limpe a lista e os resultados para realizar um novo sorteio sem precisar recarregar a página. 🔄
 
-## Funcionalidades 🔧
+### Tecnologias Utilizadas 🛠️
+- **HTML5**: Para estruturar a página e garantir uma base semântica. 🏗️
+- **CSS3**: Para estilizar a interface e criar uma experiência visual agradável e responsiva. 🎨
+- **JavaScript**: Para implementar a lógica do sorteio, manipulação do DOM e interação dinâmica da página. ⚙️
 
-- **Adicionar Nomes:** Insira os nomes dos participantes, seja individualmente ou separados por vírgula. ✍️
-- **Visualizar Lista:** Veja os nomes adicionados sendo exibidos dinamicamente na página. 👀
-- **Sorteio Completo:** Gere automaticamente os pares de Amigo Secreto, garantindo que ninguém sorteie a si mesmo. Uma mensagem personalizada é exibida junto com os resultados. 🎉
-- **Sorteio Individual:** Sorteie um único amigo secreto e exiba uma mensagem exclusiva com o nome sorteado. 🤔
-- **Reiniciar Sorteio:** Limpe a lista e os resultados para realizar um novo sorteio sem precisar recarregar a página. 🔄
-
-## Tecnologias Utilizadas 🛠️
-
-- **HTML5:** Para estruturar a página e garantir uma base semântica. 🏗️
-- **CSS3:** Para estilizar a interface e criar uma experiência visual agradável e responsiva. 🎨
-- **JavaScript:** Para implementar a lógica do sorteio, manipulação do DOM e interação dinâmica da página. ⚙️
+### Deploy 🚀
+O projeto foi implantado utilizando o **Vercel**, permitindo fácil acesso e execução online. Você pode conferir o projeto no seguinte link:
+[Amigo Secreto 🎁](https://challenge-amigo-secreto-g8-one.vercel.app/)
 
 ## Como Usar 🚀
 
