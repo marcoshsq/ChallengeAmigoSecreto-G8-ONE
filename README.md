@@ -1,7 +1,12 @@
+<p align="center">
+  <a href="https://github.com/marcoshsq/ChallengeAmigoSecreto-G8-ONE">
+    <img src="https://github.com/marcoshsq/ChallengeAluraStore-G8-ONE/blob/main/Challenge_Badge.png" alt="Challenge_Badge" height="150">
+  </a>
+</p>
+
+<h2 align="center">Desafio - Amigo Secreto 🎁</h2>
 
 ---
-
-# Amigo Secreto 🎁
 
 ### Sobre o Projeto
 Este é um projeto de Amigo Secreto desenvolvido como parte da formação "Iniciante em Programação" 🖥️, oferecida pelo programa Oracle Next Education (ONE), em parceria com a Alura. A aplicação permite que você adicione participantes, faça sorteios e visualize os resultados de uma maneira simples e interativa, utilizando tecnologias como HTML, CSS e JavaScript.
